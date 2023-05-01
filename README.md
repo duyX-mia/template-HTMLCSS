@@ -2,5 +2,5 @@
 
 React:
 npx create-react-appmy-app
-cdmy-app
+cd my-app
 npm start
