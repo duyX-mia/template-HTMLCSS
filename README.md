@@ -18,8 +18,8 @@ build the UI and make HTTP requests to the Node.js server to fetch data or updat
 -Node.js takes care of server-side logic and database operations.   
    <br>
   <br>
-__  
-  
+<br>
+  <br>
 Next.js is a React framework for building server-side rendered (SSR) applications with optimized performance. It offers features like automatic code splitting, static site generation, and client-side rendering to improve performance.  
 Additionally, it simplifies the process of building server-side rendered applications by taking care of underlying infrastructure, so you can focus on building your application logic.  
   
