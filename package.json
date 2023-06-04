@@ -1,0 +1,23 @@
+{
+  "name": "template-html-basicblogging",
+  "version": "1.0.0",
+  "description": "React: <br>\r npx create-react-appmy-app <br>\r cd my-app <br>\r npm start <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duyX-mia/template-HTMLCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duyX-mia/template-HTMLCSS/issues"
+  },
+  "homepage": "https://github.com/duyX-mia/template-HTMLCSS#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
